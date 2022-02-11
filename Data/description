@@ -1,6 +1,0 @@
-Dataset berisi dua kolom :
-
-- news_headline yang memiliki value headline berita dalam bahasa inggris,
-- sentiment yang berisi nilai negative, neutral dan positive
-
-sumber data : bit.ly/Technical_Test_DS
